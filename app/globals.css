@@ -4,6 +4,7 @@
   --color-text: #191c18;
   --color-green: #294935;
   --color-green-dark: #1d3527;
+  --color-footer: #203b2b;
   --color-muted: #65675d;
   --color-line: #cccdbf;
   --color-photo-placeholder: #d5caba;
@@ -572,7 +573,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 /* ---------- Footer ---------- */
 .footer {
-  background: var(--color-text);
+  background: var(--color-footer);
   color: var(--color-bg);
   padding-top: 64px;
   overflow: hidden;
